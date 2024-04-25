@@ -1,0 +1,10 @@
+
+.Dealersidebar {
+    color: #fff;
+    width: 250px;
+    padding-left: 20px;
+    height: 120vh;
+    /* background-image: linear-gradient(30deg , #0048bd, #44a7fd); */
+    background: rgb(251, 109, 72) ;
+    border-top-right-radius: 80px;
+  }
